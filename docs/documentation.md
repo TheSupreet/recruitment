@@ -139,3 +139,7 @@ All errors are handled by centralized error middleware:
 - Add logging with Winston or Morgan and implement centralized monitoring using Prometheus/Grafana.
 - Implement automated tests and CI/CD pipelines.
 
+## 5. Schema diagram 
+<img width="1536" height="1024" alt="Schema" src="https://github.com/user-attachments/assets/e1b24aef-9e0e-4be8-9d2a-e04b24f376bf" />
+
+
