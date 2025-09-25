@@ -140,6 +140,8 @@ All errors are handled by centralized error middleware:
 - Implement automated tests and CI/CD pipelines.
 
 ## 5. Work flow Diagram
-<img width="1536" height="1024" alt="Schema" src="https://github.com/user-attachments/assets/e1b24aef-9e0e-4be8-9d2a-e04b24f376bf" />
+<img width="1536" height="1024" alt="Schema" src="https://github.com/user-attachments/assets/5c643312-357c-48eb-896e-9d44d551fc51" />
+
+
 
 
