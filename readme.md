@@ -17,7 +17,7 @@ This project demonstrates user registration, authentication with JWT, and a simp
 
 ## 🛠️ Tech Stack
 - **Backend**: Node.js, Express.js, MongoDB (Mongoose ORM)  
-- **Frontend**: React + Vite + Tailwind CSS  
+- **Frontend**: React + Vite  
 - **Authentication**: JWT (JSON Web Token)  
 - **Database**: MongoDB  
 
